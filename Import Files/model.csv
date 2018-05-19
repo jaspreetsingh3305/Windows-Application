@@ -1,0 +1,3 @@
+ModelId,Name,EngineSize,NumberOfDoors,Colour,VehicleTypeId
+,i8 Roadster,7.0,2,E-Copper,8
+,Veneno,8.5,2,Dark Red,7
